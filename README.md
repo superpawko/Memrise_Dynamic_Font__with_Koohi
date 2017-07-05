@@ -1,9 +1,11 @@
 
+<img alt="course definition" src="examples/mem1.JPG" width="50%" />
+
 
 # INSTRUCTIONS:
 DOWNLOAD ALL of this:
 
-# Fonts:
+## Fonts:
 
 https://www.microsoft.com/en-us/download/details.aspx?id=49114
 http://www.nihilist.org.uk/
@@ -11,18 +13,18 @@ http://www.nihilist.org.uk/
 
 ##Extensions:
 
-# Memrise+
+### Memrise+
 https://chrome.google.com/webstore/detail/memrise+/hmpiegnknhdokbhnifbpgbbfkeddbdfh
 
-​# Tampermonkey
+### Tampermonkey
 ​https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 
-# ​Stylish - Custom themes for any website
+### Stylish - Custom themes for any website
 ​https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
 
 
-# Web Server for Chrome
+### Web Server for Chrome
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
 
 Set your server as: http://127.0.0.1:8887 and set Webserver on any folder (You could put it on your windows drive so it will not run other HDD)
@@ -49,8 +51,15 @@ https://greasyfork.org/pl/scripts/31169-memrise-kanjax-with-koohi-v3
 https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2
 
 
-What i used: 
+
+## Install userstyle:
+https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
+
+
+
+## What i used: 
 
 https://github.com/KanjiVG/kanjivg
 https://github.com/Kimtaro/kanjivg2svg
 Kanji_koohi javascript but i do not know autor or place where i get it.
+

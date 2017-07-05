@@ -9,6 +9,8 @@ This scripts will change look of your memrise more or less it depends if you wil
 <img alt="preview image one" src="examples/mem1.JPG" width="70%" />
 <img alt="preview image two" src="examples/mem2.JPG" width="70%" />
 
+<br>
+More screenshoots: http://imgur.com/a/kcftf
 
 # INSTRUCTIONS:
 <strong>DOWNLOAD ALL of this:</strong>

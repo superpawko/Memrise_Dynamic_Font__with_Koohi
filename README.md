@@ -5,8 +5,8 @@ This scripts will change look of your memrise more or less it depends if you wil
 <hr>
 
 
-<img alt="course definition" src="examples/mem1.JPG" width="90%" />
-<img alt="course definition" src="examples/mem2.JPG" width="90%" />
+<img alt="course definition" src="examples/mem1.JPG" width="70%" />
+<img alt="course definition" src="examples/mem2.JPG" width="70%" />
 
 
 # INSTRUCTIONS:
@@ -36,20 +36,17 @@ https://chrome.google.com/webstore/detail/memrise+/hmpiegnknhdokbhnifbpgbbfkeddb
 ### Web Server for Chrome
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
 
-Set your server as: http://127.0.0.1:8887 and set Webserver on any folder (You could put it on your windows drive so it will not run other HDD)
+Set your server as: http://127.0.0.1:8887 and set Webserver in folder <strong>C:\KANJAX\</strong> REALLY IMPORTANT!!!
 
 <img alt="course definition" src="examples/webserver.JPG" width="50%" />
 
 
 From here (my github) download and put it in your WEBSERVER FOLDER:
-<ul>
-<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js</li>
-<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_kanjax_with_koohii.js</li>
-<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/ALL_KANJAX.js</li>
-<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/frames.zip</li>
-</ul>
 
-<strong>Unpack : frames.zip</strong>
+https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/KANJAX.zip
+
+<strong>Unpack to folder on C:\   [REALLY IMPORTANT]</strong>
+
 This is how look your directory structure. In Frames folder there should be 6000+ files of .svg
 <img alt="course definition" src="examples/folder_structure.JPG" width="50%" 
 
@@ -61,8 +58,11 @@ This is how look your directory structure. In Frames folder there should be 6000
 <ul>
 <li>https://greasyfork.org/pl/scripts/31168-memrise-dynamic-font-for-kanji-v3</li>
 <li>https://greasyfork.org/pl/scripts/31169-memrise-kanjax-with-koohi-v3</li>
-<li>https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2</li>
 </ul>
+<hr>
+<strong>OPTIONAL:</strong> [It will make kanji popup on everywebsite.
+https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2
+
 
 
 ## Install userstyle:

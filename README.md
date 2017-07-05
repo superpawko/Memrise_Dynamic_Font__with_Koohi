@@ -112,11 +112,11 @@ Click on tapermonkey - > Click on Dashboard - > On right side of every script th
 
 Change line 7 :
 <br>
-// @match        *://www.memrise.com/course/*
+// @match        \*://www.memrise.com/course/\*
 <br>
 to:
 <br>
-// @match        *://www.memrise.com/course/1091255/*
+// @match        \*://www.memrise.com/course/1091255/\*
 
 Where  <strong>1091255</strong> is a course number:
 

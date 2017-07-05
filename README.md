@@ -1,4 +1,10 @@
 
+## Description:
+
+This scripts will change look of your memrise more or less it depends if you will use userstyle (Stylish addon). It will adjust font size of text depends of number of characters and words in a single question box. Also you will be able to interact with any Kanji character to see kanji strokes information, kunyomi/onyomi readings and some stories about this Kanji.
+<hr>
+
+
 <img alt="course definition" src="examples/mem1.JPG" width="70%" />
 <img alt="course definition" src="examples/mem2.JPG" width="70%" />
 

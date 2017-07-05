@@ -15,12 +15,12 @@ This scripts will change look of your memrise more or less it depends if you wil
 ## Fonts:
 
 <ul>
-<li>https://www.microsoft.com/en-us/download/details.aspx?id=49114
-<li>http://www.nihilist.org.uk/
+<li>https://www.microsoft.com/en-us/download/details.aspx?id=49114</li>
+<li>http://www.nihilist.org.uk/</li>
 </ul>
 
 
-## Extensions:
+##Extensions:
 
 ### Memrise+
 https://chrome.google.com/webstore/detail/memrise+/hmpiegnknhdokbhnifbpgbbfkeddbdfh
@@ -43,9 +43,9 @@ Set your server as: http://127.0.0.1:8887 and set Webserver on any folder (You c
 
 From here (my github) download and put it in your WEBSERVER FOLDER:
 <ul>
-<il>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js
-<il>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js<il>
-<il>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/frames.zip
+<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js</li>
+<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js</li>
+<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/frames.zip</li>
 </ul>
 Unpack : frames.zip
 This is how look your directory structure. In Frames folder there should be 6000+ files of .svg
@@ -57,9 +57,9 @@ This is how look your directory structure. In Frames folder there should be 6000
 ### UserScripts:
 
 <ul>
-<il>https://greasyfork.org/pl/scripts/31168-memrise-dynamic-font-for-kanji-v3
-<il>https://greasyfork.org/pl/scripts/31169-memrise-kanjax-with-koohi-v3
-<il>https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2
+<li>https://greasyfork.org/pl/scripts/31168-memrise-dynamic-font-for-kanji-v3</li>
+<li>https://greasyfork.org/pl/scripts/31169-memrise-kanjax-with-koohi-v3</li>
+<li>https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2</li>
 </ul>
 
 
@@ -70,11 +70,12 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 
 ## What i used: 
 <ul>
-<il>https://github.com/KanjiVG/kanjivg
-<il>https://github.com/Kimtaro/kanjivg2svg
-<il>Kanji_koohi javascript but i do not know autor or place where i get it.
+<li>https://github.com/KanjiVG/kanjivg</li>
+<li>https://github.com/Kimtaro/kanjivg2svg</li>
+<li>Kanji_koohi javascript but i do not know autor or place where i get it.</li>
 </ul>
 
 
 ## Buy me a beer :) 
+
 <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg"> <strong>Make Donation</strong></a>

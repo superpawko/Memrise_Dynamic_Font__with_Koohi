@@ -12,7 +12,7 @@ This scripts will change look of your memrise more or less it depends if you wil
 # INSTRUCTIONS:
 <strong>DOWNLOAD ALL of this:</strong>
 
-## Fonts:
+## Fonts (Microsoft Office Japanese Fonts, Stroke order font):
 
 <ul>
 <li>https://www.microsoft.com/en-us/download/details.aspx?id=49114</li>
@@ -82,7 +82,7 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 
 ### WATCHOUT ON KANJAX on all Websites v2
 
-<strong>This is script will try to find kanji on every webpage load. Disable it if not needed or add your favourite website.</strong>
+<strong>This is script will try to find kanji on every webpage load. Disable it if not needed or add your favourite website inside script @match tag.</strong>
 
 
 ### MEMRISE+
@@ -124,12 +124,13 @@ Where  <strong>1091255</strong> is a course number:
 
 You can find me on this discord server :
 English/Japanese Study Discord Link  -- https://discord.gg/cYcKgMf
-
+<br>
+My username is <strong>superpawko</strong>
 
 
 <hr> 
 
 
 # Buy me a beer :) 
-
+I'm unemployed so every $ matters. Thanks!
 <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg"> <strong>Make Donation</strong></a>

@@ -80,31 +80,37 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 
 ## ADDITIONAL SETTINGS:
 
-# MEMRISE+
+### WATCHOUT ON KANJAX on all Websites v2
+
+<strong>This is script will try to find kanji on every webpage load. Disable it if not needed or add your favourite website.</strong>
+
+
+### MEMRISE+
 
 Right click on extension and choose options/settings.
 <img alt="memrise+ optons" src="examples/memrise_plus.JPG" width="80%">
 
-# Webserver
+### Webserver
 
 If you want to edit settings of webserver you have to go to: <strong>chrome://apps</strong>
 
-# How to turn off scripts
+### How to turn off scripts
 
 Go to website run course and than click on Tampermonkey extension.
 
 <img alt="tapermonkey script turn off" src="examples/Tapermonkey_scripts.JPG" width="80%">
 
-# How to turn off STYLE off a webpage (CSS)
+### How to turn off STYLE off a webpage (CSS)
 
-<img alt="stylish deactivate" src="examples/Stylish_Deactivate.JPG.JPG" width="80%">
+<img alt="stylish deactivate" src="examples/Stylish_Deactivate.JPG" width="80%">
 
 
-# How to make script work only on few courses:
+### How to make script work only on few courses:
 
 Click on tapermonkey - > Click on Dashboard - > On right side of every script there are 3 buttons. Press Edit button of choosen script. 
 
 Change line 7 :
+<br>
 // @match        *://www.memrise.com/course/*
 <br>
 to:
@@ -114,7 +120,7 @@ to:
 Where  <strong>1091255</strong> is a course number:
 
 
-### Have more question ?
+## Have more question ?
 
 You can find me on this discord server :
 English/Japanese Study Discord Link  -- https://discord.gg/cYcKgMf
@@ -122,7 +128,8 @@ English/Japanese Study Discord Link  -- https://discord.gg/cYcKgMf
 
 
 <hr> 
-<br>
-## Buy me a beer :) 
+
+
+# Buy me a beer :) 
 
 <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg"> <strong>Make Donation</strong></a>

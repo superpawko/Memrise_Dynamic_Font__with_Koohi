@@ -121,13 +121,6 @@ to:
 Where  <strong>1091255</strong> is a course number:
 
 
-## Have more question ?
-
-You can find me on this discord server :
-English/Japanese Study Discord Link  -- https://discord.gg/cYcKgMf
-<br>
-My username is <strong>superpawko</strong>
-
 
 <hr> 
 

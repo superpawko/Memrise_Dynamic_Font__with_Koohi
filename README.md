@@ -5,8 +5,8 @@ This scripts will change look of your memrise more or less it depends if you wil
 <hr>
 
 
-<img alt="course definition" src="examples/mem1.JPG" width="70%" />
-<img alt="course definition" src="examples/mem2.JPG" width="70%" />
+<img alt="course definition" src="examples/mem1.JPG" width="90%" />
+<img alt="course definition" src="examples/mem2.JPG" width="90%" />
 
 
 # INSTRUCTIONS:
@@ -44,10 +44,12 @@ Set your server as: http://127.0.0.1:8887 and set Webserver on any folder (You c
 From here (my github) download and put it in your WEBSERVER FOLDER:
 <ul>
 <li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js</li>
-<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js</li>
+<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_kanjax_with_koohii.js</li>
+<li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/ALL_KANJAX.js</li>
 <li>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/frames.zip</li>
 </ul>
-Unpack : frames.zip
+
+<strong>Unpack : frames.zip</strong>
 This is how look your directory structure. In Frames folder there should be 6000+ files of .svg
 <img alt="course definition" src="examples/folder_structure.JPG" width="50%" 
 

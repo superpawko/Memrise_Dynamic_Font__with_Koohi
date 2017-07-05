@@ -1,3 +1,4 @@
+Works only in <strong>CHROME BROWSER</strong>, i tested it only in <strong>WINDOWS</strong>
 
 ## Description:
 

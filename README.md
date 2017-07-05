@@ -132,5 +132,5 @@ My username is <strong>superpawko</strong>
 
 
 # Buy me a beer :) 
-I'm unemployed so every $ matters. Thanks!
+<em>I'm unemployed so every $ matters. Thanks!<br></em>
 <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg"> <strong>Make Donation</strong></a>

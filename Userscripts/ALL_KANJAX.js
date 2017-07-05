@@ -2,7 +2,7 @@
 // @name         KANJAX on all Websites v2
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Adds scripts to find Kanji on website page and makes them interactive with Kanji Koohi data + kanji strokes.
 // @author       You
 // @match        *://*/*
 // @grant        none

@@ -11,7 +11,8 @@ This scripts will change look of your memrise more or less it depends if you wil
 
 <br>
 More screenshoots: http://imgur.com/a/kcftf
-
+<br>
+<br>
 # INSTRUCTIONS:
 <strong>DOWNLOAD ALL of this:</strong>
 
@@ -79,6 +80,10 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 <li>https://github.com/Kimtaro/kanjivg2svg</li>
 <li>Kanji_koohi javascript but i do not know autor or place where i get it.</li>
 </ul>
+
+<br>
+<hr>
+<br>
 
 
 ## ADDITIONAL SETTINGS:

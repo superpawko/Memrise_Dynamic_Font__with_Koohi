@@ -1,9 +1,10 @@
 
-<img alt="course definition" src="examples/mem1.JPG" width="50%" />
+<img alt="course definition" src="examples/mem1.JPG" width="70%" />
+<img alt="course definition" src="examples/mem2.JPG" width="70%" />
 
 
 # INSTRUCTIONS:
-DOWNLOAD ALL of this:
+<strong>DOWNLOAD ALL of this:</strong>
 
 ## Fonts:
 
@@ -62,8 +63,12 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 
 
 ## What i used: 
+<ul>
+<il>https://github.com/KanjiVG/kanjivg
+<il>https://github.com/Kimtaro/kanjivg2svg
+<il>Kanji_koohi javascript but i do not know autor or place where i get it.
+</ul>
 
-https://github.com/KanjiVG/kanjivg
-https://github.com/Kimtaro/kanjivg2svg
-Kanji_koohi javascript but i do not know autor or place where i get it.
 
+## Buy me a beer :) 
+https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton

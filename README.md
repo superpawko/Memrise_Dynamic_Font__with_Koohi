@@ -20,7 +20,7 @@ This scripts will change look of your memrise more or less it depends if you wil
 </ul>
 
 
-##Extensions:
+## Extensions:
 
 ### Memrise+
 https://chrome.google.com/webstore/detail/memrise+/hmpiegnknhdokbhnifbpgbbfkeddbdfh

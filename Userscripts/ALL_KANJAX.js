@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Adds scripts to find Kanji on website page and makes them interactive with Kanji Koohi data + kanji strokes.
-// @author       You
+// @author       superpawko
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==

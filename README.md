@@ -6,10 +6,12 @@
 DOWNLOAD ALL of this:
 
 ## Fonts:
+
 <ul>
 <li>https://www.microsoft.com/en-us/download/details.aspx?id=49114
 <li>http://www.nihilist.org.uk/
 </ul>
+
 
 ##Extensions:
 
@@ -33,10 +35,11 @@ Set your server as: http://127.0.0.1:8887 and set Webserver on any folder (You c
 
 
 From here (my github) download and put it in your WEBSERVER FOLDER:
-https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js
-https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js
-https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/frames.zip
-
+<ul>
+<il>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js
+<il>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/_jquery.bpopup.min.js<il>
+<il>https://github.com/superpawko/Memrise_Dynamic_Font__with_Koohi/blob/master/frames.zip
+</ul>
 Unpack : frames.zip
 This is how look your directory structure. In Frames folder there should be 6000+ files of .svg
 <img alt="course definition" src="examples/folder_structure.JPG" width="50%" 
@@ -46,10 +49,11 @@ This is how look your directory structure. In Frames folder there should be 6000
 
 ### UserScripts:
 
-https://greasyfork.org/pl/scripts/31168-memrise-dynamic-font-for-kanji-v3
-https://greasyfork.org/pl/scripts/31169-memrise-kanjax-with-koohi-v3
-https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2
-
+<ul>
+<il>https://greasyfork.org/pl/scripts/31168-memrise-dynamic-font-for-kanji-v3
+<il>https://greasyfork.org/pl/scripts/31169-memrise-kanjax-with-koohi-v3
+<il>https://greasyfork.org/pl/scripts/31167-kanjax-on-all-websites-v2
+</ul>
 
 
 ## Install userstyle:

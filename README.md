@@ -77,8 +77,4 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 
 
 ## Buy me a beer :) 
-https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton
-
-
-
 <a href="https://www.paypal.com/webapps/shoppingcart?flowlogging_id=592551565e840&mfid=1499250036760_592551565e840#/checkout/openButton"><img src="examples/pay-pal-icon.svg"> <strong>Make Donation</strong></a>

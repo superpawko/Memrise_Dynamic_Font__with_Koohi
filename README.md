@@ -6,10 +6,10 @@
 DOWNLOAD ALL of this:
 
 ## Fonts:
-
-https://www.microsoft.com/en-us/download/details.aspx?id=49114
-http://www.nihilist.org.uk/
-
+<ul>
+<li>https://www.microsoft.com/en-us/download/details.aspx?id=49114
+<li>http://www.nihilist.org.uk/
+</ul>
 
 ##Extensions:
 

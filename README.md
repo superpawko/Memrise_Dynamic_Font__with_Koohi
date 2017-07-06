@@ -84,7 +84,17 @@ https://userstyles.org/styles/144287/memrise-japanese-learning-kanji-with-sjgl
 
 <br>
 <hr>
+
+# NOW turn off browser, and everything should be working.
+
+
 <br>
+<hr>
+<br>
+
+
+
+
 
 
 ## ADDITIONAL SETTINGS:
